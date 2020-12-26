@@ -1,3 +1,3 @@
 # SmartTetris
 
-AI model that can play a modiefied version of Tetris. 
+AI model that can play a modified version of Tetris. 
